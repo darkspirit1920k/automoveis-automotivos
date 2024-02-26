@@ -17,7 +17,9 @@ color: #FFFFFF;
 
 
 .cabecalho{ 
+   display:flex
    
+
    background-color:#6603e7;
    color: #FFFFFF;
 
