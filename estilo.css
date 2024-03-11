@@ -19,8 +19,8 @@ color: #FFFFFF;
 .cabecalho{ 
    display:flex;
 
-   background: rgb(245,1,249);
-background: linear-gradient(90deg, rgba(245,1,249,1) 14%, rgba(82,35,236,1) 50%, rgba(245,1,249,1) 86%);
+   background: rgb(242,19,241);
+   background: linear-gradient(0deg, rgba(242,19,241,1) 0%, rgba(7,16,176,1) 50%, rgba(242,19,241,1) 100%);
    color: #FFFFFF;
    align-items:center ;
    justify-content:space-around ;
