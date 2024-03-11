@@ -20,7 +20,7 @@ color: #FFFFFF;
    display:flex;
 
    background: rgb(245,1,249);
-background: linear-gradient(90deg, rgba(245,1,249,1) 8%, rgba(35,116,236,1) 48%, rgba(169,11,180,1) 100%);
+background: linear-gradient(90deg, rgba(245,1,249,1) 14%, rgba(82,35,236,1) 50%, rgba(245,1,249,1) 86%);
    color: #FFFFFF;
    align-items:center ;
    justify-content:space-around ;
