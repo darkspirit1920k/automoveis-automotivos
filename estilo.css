@@ -45,5 +45,7 @@ font-size: 24px ;
 
 background-color:black
 ;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(32,6,166,1) 50%, rgba(184,0,255,1) 100%);
 
   }
