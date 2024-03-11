@@ -44,7 +44,8 @@ font-size: 24px ;
 }
 .secao1{ 
 
-background-color:black
+   background: rgb(19,242,240);
+   background: linear-gradient(90deg, rgba(19,242,240,1) 0%, rgba(0,0,0,1) 50%, rgba(19,242,240,1) 100%);
 ;
 
 
