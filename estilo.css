@@ -44,8 +44,8 @@ font-size: 24px ;
 }
 .secao1{ 
 
-   background: rgb(19,242,240);
-   background: linear-gradient(90deg, rgba(19,242,240,1) 0%, rgba(0,0,0,1) 50%, rgba(19,242,240,1) 100%);
+   background: rgb(240,19,242);
+background: linear-gradient(0deg, rgba(240,19,242,1) 17%, rgba(19,166,242,1) 40%, rgba(7,16,176,1) 65%, rgba(240,19,242,1) 90%);
 ;
 
 
